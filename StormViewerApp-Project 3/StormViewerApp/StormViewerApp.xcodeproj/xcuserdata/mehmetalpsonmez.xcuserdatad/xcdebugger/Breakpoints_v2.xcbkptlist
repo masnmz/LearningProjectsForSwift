@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "214C096E-C6DB-4AFA-8CA9-DE7BB822C1C3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02888377-C8DE-42E3-8985-6F1774B7961F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StormViewerApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - 2724e4202a9fe1a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.Picture.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - 97d6d2942f58cdbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.Picture.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - 7b8331044b62c4a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.Picture.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - d558294e38808fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.Picture.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - 863ccd95f9c52660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.init(style: __C.UITableViewStyle) -&gt; StormViewerApp.ViewController"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - 8dd8a9945cfec156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; StormViewerApp.ViewController"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "02888377-C8DE-42E3-8985-6F1774B7961F - 72ef4c89a1f7612a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StormViewerApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;StormViewerApp.ViewController&gt;"
+                  moduleName = "StormViewerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetalpsonmez/Desktop/Hacking%20With%20Swift/Apps/StormViewerApp/StormViewerApp/StormViewerApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A3FC766-901E-4493-A201-987097B6F715"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StormViewerApp/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "396EC363-A1EA-4D00-B22F-C304D52065F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StormViewerApp/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
